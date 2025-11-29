@@ -1,0 +1,9 @@
+name: lab_2
+channels:
+- conda-forge
+dependencies:
+- pandas=2.3.3
+- python=3.11.14
+- numpy=2.3.5
+- conda-lock=3.0.4
+prefix: /Users/apoorva/miniforge3/envs/lab_2
